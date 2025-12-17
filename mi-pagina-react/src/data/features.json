@@ -2,27 +2,31 @@
     {
         "id": 1,
         "title": "Componentes",
-        "description": "Uso de componentes funcionales reutilizables.",
-        "details": "Estos componentes permiten una mejor organización y mantenimiento del código. Se pueden reutilizar en diferentes partes de la aplicación."
+        "description": "Bloques de construcción de la UI.",
+        "details": "Los componentes permiten dividir la interfaz en piezas independientes y reutilizables. En React, utilizamos componentes funcionales que devuelven JSX, facilitando la creación de interfaces complejas a partir de unidades simples y fáciles de probar."
     },
     {
         "id": 2,
         "title": "Hooks",
-        "description": "Implementación de useState y useEffect."
+        "description": "Estado y ciclo de vida en funciones.",
+        "details": "Los Hooks como useState y useEffect permiten a los componentes funcionales manejar su propio estado y ejecutar efectos secundarios (como llamadas a APIs o suscripciones) sin necesidad de escribir clases de JavaScript."
     },
     {
         "id": 3,
-        "title": "Buenas prácticas",
-        "description": "Estructura clara y código mantenible."
+        "title": "Props & Data Flow",
+        "description": "Paso de información entre componentes.",
+        "details": "React utiliza un flujo de datos unidireccional. Las 'props' son argumentos que pasamos a los componentes (como si fueran funciones) para personalizar su contenido y comportamiento desde un componente padre a uno hijo."
     },
     {
         "id": 4,
-        "title": "JSON Data",
-        "description": "Datos cargados dinámicamente con useEffect."
+        "title": "Virtual DOM",
+        "description": "Optimización de renderizado eficiente.",
+        "details": "React mantiene una representación ligera del DOM en memoria. Cuando el estado cambia, React compara el Virtual DOM con el real y solo actualiza los elementos que realmente cambiaron, lo que resulta en un alto rendimiento."
     },
     {
         "id": 5,
-        "title": "David Correa",
-        "description": "olaola como te llamas"
+        "title": "Vite & React",
+        "description": "Entorno de desarrollo ultra rápido.",
+        "details": "Vite es una herramienta de construcción moderna que ofrece un servidor de desarrollo instantáneo. Al usarlo con React, obtenemos Hot Module Replacement (HMR) extremadamente rápido, mejorando drásticamente la experiencia del desarrollador."
     }
 ]
