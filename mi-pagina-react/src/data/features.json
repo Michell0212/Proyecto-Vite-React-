@@ -1,22 +1,28 @@
 [
-  {
-    "id": 1,
-    "title": "Componentes",
-    "description": "Uso de componentes funcionales reutilizables."
-  },
-  {
-    "id": 2,
-    "title": "Hooks",
-    "description": "Implementación de useState y useEffect."
-  },
-  {
-    "id": 3,
-    "title": "Buenas prácticas",
-    "description": "Estructura clara y código mantenible."
-  },
-  {
-    "id": 4,
-    "title": "JSON Data",
-    "description": "Datos cargados dinámicamente con useEffect."
-  }
+    {
+        "id": 1,
+        "title": "Componentes",
+        "description": "Uso de componentes funcionales reutilizables.",
+        "details": "Estos componentes permiten una mejor organización y mantenimiento del código. Se pueden reutilizar en diferentes partes de la aplicación."
+    },
+    {
+        "id": 2,
+        "title": "Hooks",
+        "description": "Implementación de useState y useEffect."
+    },
+    {
+        "id": 3,
+        "title": "Buenas prácticas",
+        "description": "Estructura clara y código mantenible."
+    },
+    {
+        "id": 4,
+        "title": "JSON Data",
+        "description": "Datos cargados dinámicamente con useEffect."
+    },
+    {
+        "id": 5,
+        "title": "David Correa",
+        "description": "olaola como te llamas"
+    }
 ]
