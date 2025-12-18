@@ -1,16 +1,32 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Universidad de las Fuerzas Armadas ESPE** **Materia:** Programación Integral de Componentes Web
 
-Currently, two official plugins are available:
+## Descripción
+Este proyecto es una Single Page Application (SPA) desarrollada con **React** y **Vite**. La aplicación demuestra el uso de los conceptos fundamentales de React, incluyendo la creación de componentes reutilizables, gestión de estado, efectos secundarios y renderizado dinámico de datos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Instalación y Ejecución
 
-## React Compiler
+Pasos para ejecutar el proyecto en tu entorno local:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1.  **Clonar o descargar el proyecto** y abrir la terminal en la carpeta raíz.
 
-## Expanding the ESLint configuration
+2.  **Instalar las dependencias:**
+    Ejecuta el siguiente comando para descargar `node_modules`:
+    ```bash
+    npm install
+    ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3.  **Iniciar el servidor de desarrollo:**
+    Para ver la página en tu navegador:
+    ```bash
+    npm run dev
+    ```
+
+## Integrantes 
+
+* Michell Ibarra
+* David Correa
+* Liliana Lesano
+* Juan Albarracin
+
